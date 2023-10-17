@@ -3,7 +3,7 @@ A Menu driver interface of food ordering system with built-in billing also has a
 
 A food ordering system in C++ is a program that allows users to browse a menu, select items they want to order, and place orders. It can be used in restaurants, cafes, or for online food delivery services. Here's a basic description of a food ordering system in C++:
 
-User Interface: The system provides a user-friendly interface that allows customers to interact with the program. This could be a command-line interface or a graphical user interface (GUI).
+User Interface: The system provides a user-friendly interface that allows customers to interact with the program. This could be a command-line interface.
 
 Menu Management: The system stores a menu with a list of available items. Each menu item typically includes a name, description, price, and a unique identifier.
 
